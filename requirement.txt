@@ -1,0 +1,8 @@
+matplotlib
+tkinter
+os
+socket
+zlib
+bz2
+gzip
+

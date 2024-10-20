@@ -1,0 +1,32 @@
+use commands following fashion - (Old 🤮🤮) - No app for both
+1. Use this in one terminal "python app.py --mode receive --host 127.0.0.1 --port 65432"
+2. Use this in another terminal "python app.py"
+you can modify the port too
+
+or
+
+New Command approach - (New 😎😎) - app for both
+1. Open terminal 1 use "python app.py" and click on recieve
+2. Open terminal 2 use "python app.py" and choose file and click send
+3. file is recived as recieved_file.txt and check the file
+4. Can visualize using the visualize on the sender size
+
+
+
+
+
+This is a test file for the Network-Based Data Compression Tool.
+
+The purpose of this file is to demonstrate how data is compressed
+and sent over the network to the receiver.
+
+Once received, the data will be decompressed and should look exactly
+like this original text.
+
+This is an example of how compression can optimize data transfer efficiency
+over networks, by reducing the size of transmitted data, thereby improving
+network performance and reducing bandwidth usage.
+
+
+
+
